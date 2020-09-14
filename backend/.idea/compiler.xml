@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="segmentfault-common" />
+        <module name="segmentfault-system" />
+        <module name="segmentfault-generator" />
+        <module name="segmentfault-admin" />
+        <module name="segmentfault-community" />
+        <module name="segmentfault-framework" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="segmentfault" target="1.8" />
+      <module name="segmentfault-admin" target="1.8" />
+      <module name="segmentfault-common" target="1.8" />
+      <module name="segmentfault-community" target="1.8" />
+      <module name="segmentfault-framework" target="1.8" />
+      <module name="segmentfault-generator" target="1.8" />
+      <module name="segmentfault-system" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

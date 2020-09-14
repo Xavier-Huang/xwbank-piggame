@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/segmentfault.iml" filepath="$PROJECT_DIR$/segmentfault.iml" />
+      <module fileurl="file://$PROJECT_DIR$/segmentfault-admin/segmentfault-admin.iml" filepath="$PROJECT_DIR$/segmentfault-admin/segmentfault-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/segmentfault-common/segmentfault-common.iml" filepath="$PROJECT_DIR$/segmentfault-common/segmentfault-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/segmentfault-community/segmentfault-community.iml" filepath="$PROJECT_DIR$/segmentfault-community/segmentfault-community.iml" />
+      <module fileurl="file://$PROJECT_DIR$/segmentfault-framework/segmentfault-framework.iml" filepath="$PROJECT_DIR$/segmentfault-framework/segmentfault-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/segmentfault-generator/segmentfault-generator.iml" filepath="$PROJECT_DIR$/segmentfault-generator/segmentfault-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/segmentfault-system/segmentfault-system.iml" filepath="$PROJECT_DIR$/segmentfault-system/segmentfault-system.iml" />
+    </modules>
+  </component>
+</project>

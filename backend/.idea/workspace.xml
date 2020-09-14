@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="segmentfault-admin:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8972d719-e132-4838-80b5-4ffff72df621" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/src/main/resources/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/src/main/resources/application-test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/src/main/resources/application-test.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/application-test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/application-test.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/SegmentfaultApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/SegmentfaultApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/SegmentfaultServletInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/SegmentfaultServletInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/common/CommonController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/common/CommonController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/demo/controller/DemoDialogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/demo/controller/DemoDialogController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/demo/controller/DemoFormController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/demo/controller/DemoFormController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/demo/controller/DemoIconController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/demo/controller/DemoIconController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/demo/controller/DemoOperateController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/demo/controller/DemoOperateController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/demo/controller/DemoReportController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/demo/controller/DemoReportController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/demo/controller/DemoTableController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/demo/controller/DemoTableController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/demo/controller/UserFormModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/demo/controller/UserFormModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/demo/controller/UserTableModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/demo/controller/UserTableModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/demo/domain/UserOperateModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/demo/domain/UserOperateModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/monitor/DruidController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/monitor/DruidController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/monitor/ServerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/monitor/ServerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/monitor/SysLogininforController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/monitor/SysLogininforController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/monitor/SysOperlogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/monitor/SysOperlogController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/monitor/SysUserOnlineController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/monitor/SysUserOnlineController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysCaptchaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysCaptchaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysConfigController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysConfigController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysDeptController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysDeptController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysDictDataController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysDictDataController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysDictTypeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysDictTypeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysIndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysIndexController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysLoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysLoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysMenuController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysMenuController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysProfileController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysProfileController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysRegisterController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysRegisterController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysRoleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysRoleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysUserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/system/SysUserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/tool/BuildController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/tool/BuildController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/tool/SwaggerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/tool/SwaggerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/tool/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/tool/TestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/tool/UserEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/controller/tool/UserEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/core/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/classes/com/segmentfault/web/core/config/SwaggerConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-admin/target/segmentfault-admin.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-admin/target/segmentfault-admin.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-common/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-common/target/segmentfault-common-4.2.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-common/target/segmentfault-common-4.2.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/src/main/java/com/segmentfault/openapi/wechat/controller/WechatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/src/main/java/com/segmentfault/openapi/wechat/controller/WechatController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/src/main/java/com/segmentfault/openapi/wechat/service/impl/WechatServiceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/src/main/java/com/segmentfault/openapi/wechat/service/impl/WechatServiceServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/src/main/resources/templates/gameurl.html" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/src/main/resources/templates/gameurl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/src/main/resources/templates/h5index.html" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/src/main/resources/templates/h5index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/jsdata/controller/JsdataController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/jsdata/controller/JsdataController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/jsdata/controller/util/Aes.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/jsdata/controller/util/Aes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/jsdata/domain/Jsdata.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/jsdata/domain/Jsdata.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/jsdata/domain/JsdataJson.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/jsdata/domain/JsdataJson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/jsdata/mapper/JsdataMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/jsdata/mapper/JsdataMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/jsdata/service/IJsdataService.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/jsdata/service/IJsdataService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/jsdata/service/impl/JsdataServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/jsdata/service/impl/JsdataServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/pinball/controller/PinballController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/pinball/controller/PinballController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/pinball/controller/SystemPinballController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/pinball/controller/SystemPinballController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/pinball/domain/Pinball.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/pinball/domain/Pinball.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/pinball/mapper/PinballMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/pinball/mapper/PinballMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/pinball/service/IPinballService.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/pinball/service/IPinballService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/pinball/service/impl/PinballServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/pinball/service/impl/PinballServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/statistics/controller/StatisticsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/statistics/controller/StatisticsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/statistics/domain/Statistics.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/statistics/domain/Statistics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/statistics/mapper/StatisticsMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/statistics/mapper/StatisticsMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/statistics/service/IStatisticsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/statistics/service/IStatisticsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/statistics/service/impl/StatisticsServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/statistics/service/impl/StatisticsServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/util/HttpUtils$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/util/HttpUtils$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/util/HttpUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/util/HttpUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/wechat/controller/WechatController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/wechat/controller/WechatController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/wechat/domain/WechatJsSdk.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/wechat/domain/WechatJsSdk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/wechat/domain/WechatToken.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/wechat/domain/WechatToken.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/wechat/domain/WechatUserinfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/wechat/domain/WechatUserinfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/wechat/mapper/WechatServiceMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/wechat/mapper/WechatServiceMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/wechat/mapper/WechatUserinfoMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/wechat/mapper/WechatUserinfoMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/wechat/service/IWechatService.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/wechat/service/IWechatService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/wechat/service/IWechatUserinfoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/wechat/service/IWechatUserinfoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/wechat/service/impl/WechatServiceServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/wechat/service/impl/WechatServiceServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/wechat/service/impl/WechatUserinfoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/com/segmentfault/openapi/wechat/service/impl/WechatUserinfoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/templates/gameurl.html" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/templates/gameurl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/classes/templates/h5index.html" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/classes/templates/h5index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-community/target/segmentfault-community-4.2.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-community/target/segmentfault-community-4.2.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-framework/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-framework/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-framework/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-framework/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-framework/target/segmentfault-framework-4.2.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-framework/target/segmentfault-framework-4.2.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/config/GenConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/config/GenConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/controller/GenController.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/controller/GenController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/domain/GenTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/domain/GenTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/domain/GenTableColumn.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/domain/GenTableColumn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/mapper/GenTableColumnMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/mapper/GenTableColumnMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/mapper/GenTableMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/mapper/GenTableMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/service/IGenTableColumnService.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/service/IGenTableColumnService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/service/IGenTableService.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/service/IGenTableService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/service/impl/GenTableColumnServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/service/impl/GenTableColumnServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/service/impl/GenTableServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/service/impl/GenTableServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/util/GenUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/util/GenUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/util/VelocityInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/util/VelocityInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/util/VelocityUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-generator/target/classes/com/segmentfault/generator/util/VelocityUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-generator/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-generator/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-generator/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-generator/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-generator/target/segmentfault-generator-4.2.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-generator/target/segmentfault-generator-4.2.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-system/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-system/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-system/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-system/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentfault-system/target/segmentfault-system-4.2.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/segmentfault-system/target/segmentfault-system-4.2.0.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1f5tyhuQ5GPfJ2QkmZp5liTvG4n" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Admin\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\backend" />
+          <option name="myCopyRoot" value="E:\backend" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\backend" />
+          <option name="myCopyRoot" value="E:\backend" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8972d719-e132-4838-80b5-4ffff72df621" name="Default Changelist" comment="" />
+      <created>1595520037918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595520037918</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1596638949957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596638949957" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1595529459807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595529459807" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1595529459807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595529459807" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1595529459807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595529459807" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1595529459807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595529459807" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1596639053495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596639053495" />
+    <state x="662" y="252" width="726" height="560" key="find.popup" timestamp="1596643735772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="252" width="726" height="560" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596643735772" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1595521468093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595521468093" />
+  </component>
+</project>
